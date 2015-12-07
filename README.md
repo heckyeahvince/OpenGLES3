@@ -12,8 +12,6 @@ OpenGL ES 2.0 path:
   vertex attribute state on each frame.
 - Explicit assignment of attribute locations, eliminating the need to query
   assignments.
-  
-  opengles3-melvincabatuan created by Classroom for GitHub
 
 Pre-requisites
 --------------
@@ -29,30 +27,6 @@ Getting Started
 1. Click *Tools/Android/Sync Project with Gradle Files*.
 1. Click *Run/Run 'app'*.
 
-
-## Videocapture:
------------
-[![screenshot](screenshot_001.png)](https://youtu.be/O7E_uN-158o)
-
-## To submit:
-
-https://classroom.github.com/assignment-invitations/eaba5d34087bc4e659915bfee7c9fdb7
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/opengles3-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
 
 Support
 -------
